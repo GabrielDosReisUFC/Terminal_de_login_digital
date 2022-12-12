@@ -1,0 +1,9 @@
+../Core/Src/main.c:76:6:reseta_banco_senha	32	static
+../Core/Src/main.c:93:14:salva_senha	56	static
+../Core/Src/main.c:126:14:valida_senha	56	static
+../Core/Src/main.c:179:5:main	176	static
+../Core/Src/main.c:995:6:SystemClock_Config	104	static
+../Core/Src/main.c:1042:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:1090:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:1125:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:1178:6:Error_Handler	8	static,ignoring_inline_asm
