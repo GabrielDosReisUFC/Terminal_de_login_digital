@@ -19,3 +19,5 @@ das tarefas descritas acima estão presentes no mesmo
 Gabriel dos Reis Rodrigues - 508342
 João Amauri Rodrigues Do Nascimento - 510483 
 João Lucas Oliveira Mota - 509597 
+
+LINK PARA O VÍDEO: https://youtu.be/5nuqsLzA48E
