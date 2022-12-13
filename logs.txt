@@ -1,0 +1,30 @@
+Starting program . . . 
+ 
+
+ Login feito: 2911
+
+ Senha repetida nao salva: 2911
+
+ Senha salva: 2136
+
+ Login feito: 2136
+
+ Senha incorreta: 1230
+
+ Erro 
+
+ Erro 
+
+ Login feito: 1
+
+ Senha repetida nao salva: 1
+
+ Senha salva: 12
+
+ Senha salva: 123
+
+ Senha salva: 1470
+
+ Login feito: 12
+
+ Login feito: 123
