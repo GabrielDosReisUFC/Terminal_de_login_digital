@@ -1,5 +1,5 @@
 # Terminal_de_login_digital
-Projeto final da matéria de sistemas micrprocessados
+Projeto final da matéria de sistemas microprocessados
 
 Projeto: Sistema de segurança com senha de 1 a 4 dígitos.
 O nosso projeto se baseia em usar um teclado matricial 4x3 para ser o painel de senha, um TM1637
